@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="concordion-2.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/concordion-2.0.3/concordion-2.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
